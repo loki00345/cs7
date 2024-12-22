@@ -1,0 +1,7 @@
+C:\Users\PC\Downloads\fdhhfdhdf-master\fdhhfdhdf-master\fdhhfdhdf\bin\Debug\fdhhfdhdf.exe.config
+C:\Users\PC\Downloads\fdhhfdhdf-master\fdhhfdhdf-master\fdhhfdhdf\bin\Debug\fdhhfdhdf.exe
+C:\Users\PC\Downloads\fdhhfdhdf-master\fdhhfdhdf-master\fdhhfdhdf\bin\Debug\fdhhfdhdf.pdb
+C:\Users\PC\Downloads\fdhhfdhdf-master\fdhhfdhdf-master\fdhhfdhdf\obj\Debug\fdhhfdhdf.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\fdhhfdhdf-master\fdhhfdhdf-master\fdhhfdhdf\obj\Debug\fdhhfdhdf.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\fdhhfdhdf-master\fdhhfdhdf-master\fdhhfdhdf\obj\Debug\fdhhfdhdf.exe
+C:\Users\PC\Downloads\fdhhfdhdf-master\fdhhfdhdf-master\fdhhfdhdf\obj\Debug\fdhhfdhdf.pdb
